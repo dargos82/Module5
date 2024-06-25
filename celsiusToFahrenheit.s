@@ -2,8 +2,8 @@
 #Author: David Blossom
 #Date: 25 June 2024
 #Purpose: Convert an integer from Celsius to Fahrenheit
-#Input: 
-#Output:
+#Input: celsiusValue - integer value in Celsius 
+#Output: output1 - string with conversion to Fahrenheit
 
 .text
 .global main
