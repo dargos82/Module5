@@ -1,4 +1,4 @@
-#Program Name: fahrenheitToCelsius.s
+#Program Name: celsiusToFahrenheit.s
 #Author: David Blossom
 #Date: 25 June 2024
 #Purpose: Convert an integer from Celsius to Fahrenheit
