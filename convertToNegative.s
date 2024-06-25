@@ -2,8 +2,8 @@
 #Author: David Blossom
 #Date: 25 June 2024
 #Purpose: Convert an integer to its negative
-#Input: celsiusValue - integer value in Celsius 
-#Output: output1 - string with conversion to Fahrenheit
+#Input: integerValue - integer value 
+#Output: output1 - string with the negative of the input value
 
 .text
 .global main
